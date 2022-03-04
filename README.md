@@ -3,8 +3,7 @@
 - 🌱 Atualmente estou aprendendo JavaScript
 - ✔ HTML5
 - ✔ CSS
-- ⚙ Estudante da OneBitCode - Fullstack Javascript
-- ⚙ Programador Fullstack Junior em formação
+- ⚙ Estudante de Engenharia de Software 
 - 📫 Contate-me: andredeomondesoficial@gmail.com
 <div align="center">
   <a href="https://github.com/andredeomondes">
