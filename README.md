@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo JavaScript
 - ✔ HTML5
 - ✔ CSS
-- ⚙ Estudante de Engenharia de Software 
+- ⚙ Estudante de Engenharia de Elétrica
 - 📫 Contate-me: andredeomondesoficial@gmail.com
 <div align="center">
   <a href="https://github.com/andredeomondes">
