@@ -1,6 +1,6 @@
 ###Olá, eu sou André 👋
 
-- 🌱 Atualmente estou aprendendo JavaScript
+- 🌱 Atualmente estou aprendendo Java
 - ✔ HTML5
 - ✔ CSS
 - ⚙ Estudante de Engenharia de Elétrica
