@@ -14,7 +14,7 @@
 </div>
 
 ###
-
+<hr>
 <h1 align="center">Olá mundo! 👋</h1>
 
 ###
@@ -34,6 +34,7 @@
 
 ###
 
+<hr>
 <h3 align="left">🖼️ Front-end</h3>
 
 ###
@@ -48,6 +49,7 @@
 
 ###
 
+<hr>
 <h3 align="left">☕ Back-end</h3>
 
 ###
@@ -62,6 +64,7 @@
 
 ###
 
+<hr>
 <h3 align="left">🎨 Design & Video</h3>
 
 ###
@@ -76,6 +79,7 @@
 
 ###
 
+<hr>
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
