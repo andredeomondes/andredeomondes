@@ -1,7 +1,6 @@
 <h1 align="center">
   <span style="font-size: 2.5em; color: #ED8B00;">André</span>
-  <span style="font-size: 1.5em; color: #666;">de</span>
-  <span style="font-size: 2.5em; color: #6DB33F;">Omondes</span>
+  <span style="font-size: 2.5em; color: #6DB33F;">Deomondes</span>
 </h1>
 
 <p align="center">
