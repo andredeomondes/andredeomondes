@@ -1,20 +1,26 @@
 # 👋 Olá, eu sou André de Omondes!
 
-## 🎯 Desenvolvedor Backend Java | Java Spring Boot
+<div align="center">
 
-> *"Who's gonna carry the boats?"* — David Goggins
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
 
 ---
 
 ## 🔥 Sobre Mim
 
-Desenvolvedor Backend Java com foco em **Spring Boot**, estudante de **Engenharia da Computação** no SENAI CIMATEC (Salvador, BA). 
+Desenvolvedor Backend Java com foco em **Spring Boot**, estudante de **Engenharia da Computação** no **SENAI CIMATEC** (Salvador, BA).
 
-🎯 **Objetivo:** Completar o roadmap de **209 dias** para me tornar Desenvolvedor Backend Java Full-Stack.
+> *"Who's gonna carry the boats?"* — David Goggins
+
+🎯 **Objetivo:** Completar o roadmap de **209 dias** para me tornar **Desenvolvedor Backend Java Full-Stack**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tech Stack
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -28,52 +34,59 @@ Desenvolvedor Backend Java com foco em **Spring Boot**, estudante de **Engenhari
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-24-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### Estudando Atualmente
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
+<p align="center">
+
 ![André's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andredeomondes&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andredeomondes&layout=compact&theme=dark&hide_border=true)
 
+</p>
+
 ---
 
-## 📁 Meus Projetos Principais
+## 🚀 Projetos Principais
 
 ### ⭐ Stay Hard System
 > Roadmap de 209 dias para se tornar Desenvolvedor Backend Java Full-Stack
 
+```
+v1-cli → v2-servlet → v3-spring → v4-frontend → v5-cloud
+```
+
 📦 **Repositórios:**
-- [stay-hard-system](https://github.com/andredeomondes/stay-hard-system) — Roadmap e documentação
-- [stay-hard-v1-cli](https://github.com/andredeomondes/stay-hard-v1-cli) — Código v1 (CLI Java)
+- [stay-hard-system](https://github.com/andredeomondes/stay-hard-system) — Roadmap completo
+- [stay-hard-v1-cli](https://github.com/andredeomondes/stay-hard-v1-cli) — CLI Java
 
 ---
 
-## 🎯 Roadmap de Estudos
+## 📈 Roadmap de Estudos
 
-```
-FASE 1: PRÉ-SPRING (Dias 1-70)      ░░░░░░░░░░░░░░░░░░░░  70 dias
-FASE 2: SPRING BOOT (Dias 71-100)     ░░░░░░░░░░░░░░░░░░░░  30 dias  
-FASE 3: FRONTEND TS (Dias 101-120)    ░░░░░░░░░░░░░░░░░░░░  20 dias
-FASE 4: DEVOPS (Dias 121-140)         ░░░░░░░░░░░░░░░░░░░░  20 dias
-FASE 5: MICROSERVICES (Dias 141-150)  ░░░░░░░░░░░░░░░░░░░░  10 dias
-FASE 6: FULL STACK (Dias 151-160)     ░░░░░░░░░░░░░░░░░░░░  10 dias
-FASE 7: IA & ADVANCED (Dias 161-180)  ░░░░░░░░░░░░░░░░░░░░  20 dias
-FASE 8: SAAS & PORTFOLIO (Dias 181-209) ░░░░░░░░░░░░░░░░░░░░  29 dias
-```
+| Fase | Foco | Dias | Progresso |
+|------|------|------|-----------|
+| 1 | Pré-Spring (Java, SQL, POO) | 1-70 | 📅 |
+| 2 | Spring Boot (REST, JPA, Security) | 71-100 | 📅 |
+| 3 | Frontend (TypeScript, React) | 101-120 | 📅 |
+| 4 | DevOps (Docker, AWS) | 121-140 | 📅 |
+| 5-8 | Advanced & Portfolio | 141-209 | 📅 |
 
 **Progresso: 0/209 dias | 0% completo**
 
 ---
 
-## 📫 Conecte-se Comigo
+## 🎓 Formação
+
+- **Engenharia da Computação** — SENAI CIMATEC (Em andamento)
+- **Java Spring Professional** — DevSuperior
+
+---
+
+## 📫 Conecte-se
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andredeomondes/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/andredeomondes)
@@ -81,4 +94,8 @@ FASE 8: SAAS & PORTFOLIO (Dias 181-209) ░░░░░░░░░░░░░�
 
 ---
 
+<div align="center">
+
 > **Stay Hard. Never settle. Keep building.**
+
+</div>
