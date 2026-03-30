@@ -8,9 +8,9 @@
 
 ## 🔥 Sobre Mim
 
-Desenvolvedor Backend Java com foco em **Spring Boot**, buscando me tornar um **Desenvolvedor Backend Java Full-Stack**. Apaixonado por código limpo, arquitetura de sistemas e desenvolvimento de software de qualidade.
+Desenvolvedor Backend Java com foco em **Spring Boot**, estudante de **Engenharia da Computação** no SENAI CIMATEC (Salvador, BA). 
 
-🎯 **Objetivo atual:** Completar o roadmap de 209 dias para me tornar um Desenvolvedor Backend Java Full-Stack.
+🎯 **Objetivo:** Completar o roadmap de **209 dias** para me tornar Desenvolvedor Backend Java Full-Stack.
 
 ---
 
