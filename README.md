@@ -4,9 +4,7 @@
 </h1>
 
 <p align="center">
-  <code style="font-size: 1.1em; background: #161b22; padding: 8px 16px; border-radius: 20px; color: #6DB33F;">
-    🧑‍💻 Java Backend Developer | Full-Stack | SENAI CIMATEC
-  </code>
+  🧑‍💻 Java Backend Developer | Full-Stack | SENAI CIMATEC
 </p>
 
 ---
@@ -41,14 +39,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andredeomondes&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredeomondes&theme=github_dark&layout=compact&hide_border=true" alt="Languages" width="48%">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andredeomondes&show_icons=true&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andredeomondes&theme=github-dark-dimmed&hide_border=true&area=true&areaColor=6DB33F&line=ED8B00" width="95%">
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andredeomondes&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -67,7 +60,7 @@
 🎯 FASE 1: PRÉ-SPRING (Dias 1-70)       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 🎯 FASE 2: SPRING BOOT (Dias 71-100)     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 🎯 FASE 3: FRONTEND (Dias 101-120)       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
-🎯 FASE 4: DEVOPS (Dias 121-140)        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
+🎯 FASE 4: DEVOPS (Dias 121-140)         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 🎯 FASE 5-8: ADVANCED (Dias 141-209)    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 ```
 
@@ -115,7 +108,7 @@
 
 ## 📫 Conecte-se
 
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/andredeomondes">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -125,13 +118,7 @@
   <a href="https://instagram.com/andre.deomondes">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&width=600">
-</p>
+</div>
 
 ---
 
