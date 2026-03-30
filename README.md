@@ -39,9 +39,13 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andredeomondes&show_icons=true&theme=radical&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=andredeomondes&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andredeomondes&layout=compact&theme=radical&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredeomondes&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</p>
 
 ---
 
