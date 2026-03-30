@@ -37,15 +37,15 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andredeomondes&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredeomondes&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</p>
+![Followers](https://img.shields.io/github/followers/andredeomondes?style=for-the-badge&color=6DB33F)
+![Stars](https://img.shields.io/github/stars/andredeomondes?style=for-the-badge&color=ED8B00)
+![Repos](https://img.shields.io/github/repos/andredeomondes?style=for-the-badge&color=3178C6)
+
+</div>
 
 ---
 
