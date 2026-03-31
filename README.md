@@ -61,14 +61,14 @@
 ## 📈 Roadmap de Progresso
 
 ```
-🎯 FASE 1: PRÉ-SPRING (Dias 1-70)       ████░░░░░░░░░░░░░░░░░░░░░░░░░  6/70 (9%)
+🎯 FASE 1: PRÉ-SPRING (Dias 1-70)       █████░░░░░░░░░░░░░░░░░░░░░░░░░  7/70 (10%)
 🎯 FASE 2: SPRING BOOT (Dias 71-100)     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 🎯 FASE 3: FRONTEND (Dias 101-120)       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 🎯 FASE 4: DEVOPS (Dias 121-140)         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 🎯 FASE 5-8: ADVANCED (Dias 141-209)    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 ```
 
-**Progresso: 6/209 dias (3%)** ✅
+**Progresso: 7/209 dias (3%)** ✅
 
 ### Dias completados:
 - Dia 1: Cliente-Servidor ✅
@@ -77,6 +77,7 @@
 - Dia 4: DNS & URLs ✅
 - Dia 5: Sockets em Java ✅
 - Dia 6: curl GET & POST ✅
+- Dia 7: curl Headers & Query Params ✅
 
 ---
 
