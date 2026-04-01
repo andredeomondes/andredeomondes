@@ -61,14 +61,14 @@
 ## 📈 Roadmap de Progresso
 
 ```
-🎯 FASE 1: PRÉ-SPRING (Dias 1-70)       ████████░░░░░░░░░░░░░░░░░░░░░░░░  10/70 (14%)
-🎯 FASE 2: SPRING BOOT (Dias 71-100)     ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
+🎯 FASE 1: PRÉ-SPRING (Dias 1-70)       █████████░░░░░░░░░░░░░░░░░░░░░░░░░  11/70 (16%)
+🎯 FASE 2: SPRING BOOT (Dias 71-100)     ░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 🎯 FASE 3: FRONTEND (Dias 101-120)       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 🎯 FASE 4: DEVOPS (Dias 121-140)         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 🎯 FASE 5-8: ADVANCED (Dias 141-209)    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 ```
 
-**Progresso: 10/209 dias (5%)** ✅
+**Progresso: 11/209 dias (5%)** ✅
 
 ### Dias completados:
 - Dia 1: Cliente-Servidor ✅
@@ -81,6 +81,7 @@
 - Dia 8: curl PUT & DELETE ✅
 - Dia 9: HTTP Status Codes ✅
 - Dia 10: RESTful Best Practices ✅
+- Dia 11: Maven + pom.xml ✅
 
 ---
 
