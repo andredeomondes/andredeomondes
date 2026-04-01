@@ -61,34 +61,21 @@
 ## 📈 Roadmap de Progresso
 
 ```
-🎯 FASE 1: PRÉ-SPRING (Dias 1-70)       █████████████░░░░░░░░░░░░░░░░░░░░░░  18/70 (26%)
-🎯 FASE 2: SPRING BOOT (Dias 71-100)     ░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
+🎯 FASE 1: PRÉ-SPRING (Dias 1-70)       ██████████████████░░░░░░░░░░░░░░░░░  30/70 (43%)
+🎯 FASE 2: SPRING BOOT (Dias 71-100)     ░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 🎯 FASE 3: FRONTEND (Dias 101-120)       ░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 🎯 FASE 4: DEVOPS (Dias 121-140)         ░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 🎯 FASE 5-8: ADVANCED (Dias 141-209)    ░░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 ```
 
-**Progresso: 18/209 dias (9%)** ✅
+**Progresso: 30/209 dias (14%)** ✅
 
-### Dias completados:
-- Dia 1: Cliente-Servidor ✅
-- Dia 2: TCP/IP & Portas ✅
-- Dia 3: HTTP & Request/Response ✅
-- Dia 4: DNS & URLs ✅
-- Dia 5: Sockets em Java ✅
-- Dia 6: curl GET & POST ✅
-- Dia 7: curl Headers & Query Params ✅
-- Dia 8: curl PUT & DELETE ✅
-- Dia 9: HTTP Status Codes ✅
-- Dia 10: RESTful Best Practices ✅
-- Dia 11: Maven + pom.xml ✅
-- Dia 12: Dependencies & Scopes ✅
-- Dia 13: Maven Lifecycle ✅
-- Dia 14: List & ArrayList ✅
-- Dia 15: Set & HashSet ✅
-- Dia 16: Map & HashMap ✅
-- Dia 17: Streams API ✅
-- Dia 18: Lambdas ✅
+### Dias completados (01/04/2026):
+- Dia 1-10: Fundamentos de Rede ✅
+- Dia 11-13: Maven ✅
+- Dia 14-20: Collections & Lambdas ✅
+- Dia 21-25: JUnit & TDD ✅
+- Dia 26-30: SQL & PostgreSQL ✅
 
 ---
 
