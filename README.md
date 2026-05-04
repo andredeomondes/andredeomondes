@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🚀 Desenvolvedor Full Stack | TypeScript • React • Node.js | Salvador, BA
+  Desenvolvedor Full Stack com enfase em Backend | Java Spring • PostgreSQL • Docker | Salvador, BA
 </p>
 
 ---
@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -24,7 +26,7 @@
 
 ---
 
-## 🎯 Atualmente
+## Atualmente
 
 ```typescript
 const andre = {
@@ -36,16 +38,16 @@ const andre = {
 }
 ```
 
-### 📚 O que estou aprendendo agora
-- 🧪 **Jest** - Testes unitários e de integração no [finance-app-api](https://github.com/andredeomondes/finance-app-api)
-- 🎓 **Full Stack Club** - Formação completa Full Stack
-- ⚡ **TypeScript** - Tipagem estática e padrões avançados
-- ⚛️ **React** - Hooks, Context e melhores práticas
-- 🚀 **Node.js** - APIs REST e arquitetura backend
+### O que estou aprendendo agora
+- **Jest** - Testes unitários e de integração no [finance-app-api](https://github.com/andredeomondes/finance-app-api)
+- **Full Stack Club** - Formação completa Full Stack
+- **TypeScript** - Tipagem estática e padrões avançados
+- **React** - Hooks, Context e melhores práticas
+- **Node.js** - APIs REST e arquitetura backend
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andredeomondes&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&icon_color=3178C6&text_color=FFFFFF" height="180px"/>
@@ -58,21 +60,21 @@ const andre = {
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-| 💰 Finance App API | 🎮 Stay Hard CLI | 🥷 Cadastro de Ninjas |
+| Finance App API | Stay Hard CLI | Cadastro de Ninjas |
 |---|---|---|
 | API com foco em **testes Jest** e boas práticas TypeScript | CLI Java com POO e persistência CSV | API Spring Boot para cadastro de ninjas |
-| [🔗 Repositório](https://github.com/andredeomondes/finance-app-api) | [🔗 Repositório](https://github.com/andredeomondes/stay-hard-v1-cli) | [🔗 Repositório](https://github.com/andredeomondes/CadastroDeNinjas) |
+| [Repositorio](https://github.com/andredeomondes/finance-app-api) | [Repositorio](https://github.com/andredeomondes/stay-hard-v1-cli) | [Repositorio](https://github.com/andredeomondes/CadastroDeNinjas) |
 
-| 📚 Full Stack SENAI | 🎯 LeetCode C++ | ☕ Spring Professional |
+| Full Stack SENAI | LeetCode C++ | Spring Professional |
 |---|---|---|
 | Projetos da disciplina Full Stack | 100 dias de C++ - 200 exercícios | Curso Java Spring DevSuperior |
-| [🔗 Repositório](https://github.com/andredeomondes/DesenvolvimentoFullStack-SENAI) | [🔗 Repositório](https://github.com/andredeomondes/leetcode-cpp) | [🔗 Repositório](https://github.com/andredeomondes/ds-java-spring-professional) |
+| [Repositorio](https://github.com/andredeomondes/DesenvolvimentoFullStack-SENAI) | [Repositorio](https://github.com/andredeomondes/leetcode-cpp) | [Repositorio](https://github.com/andredeomondes/ds-java-spring-professional) |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Linguagens**
 <div align="center">
@@ -93,6 +95,8 @@ const andre = {
 **Backend & Database**
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
@@ -109,24 +113,27 @@ const andre = {
 
 ---
 
-## 🎓 Formação
+## Formacao
 
 ```
-📚 Engenharia da Computação  •  SENAI CIMATEC  •  2024-2029
-
-📜 Cursos SENAI:
-   • POO Java
-   • Oracle SQL & PL/SQL
-   • Algoritmos e Estrutura de Dados (C++)
-   • Alta Qualidade de Software
-
-📜 Full Stack Club  •  Em andamento
-📜 Java Spring Professional  •  DevSuperior
+Engenharia da Computacao  •  SENAI CIMATEC  •  2024-2029
 ```
+
+### Cursos e Materias
+
+**SENAI**
+- POO Java
+- Oracle SQL & PL/SQL
+- Algoritmos e Estrutura de Dados (C++)
+- Alta Qualidade de Software
+
+**Outros**
+- Full Stack Club  •  Em andamento
+- Java Spring Professional  •  DevSuperior
 
 ---
 
-## 📫 Conecte-se
+## Conecte-se
 
 <div align="center">
   <a href="https://linkedin.com/in/andredeomondes">
@@ -147,9 +154,9 @@ const andre = {
 </div>
 
 <h3 align="center">
-  🔥 STAY HARD. NEVER QUIT. KEEP BUILDING. 🔥
+  STAY HARD. NEVER QUIT. KEEP BUILDING.
 </h3>
 
 <div align="center">
-  <i>Feito com ❤️ e muito ☕</i>
+  <i>Feito com muito cafe</i>
 </div>
