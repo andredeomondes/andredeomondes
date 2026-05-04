@@ -49,7 +49,49 @@
 
 ## Tecnologias
 
-**Frontend** `React` `Next.js` `TypeScript` `Tailwind CSS` &nbsp;&nbsp; **Backend** `Node.js` `NestJS` `Spring Boot` `Java` &nbsp;&nbsp; **Banco de Dados** `PostgreSQL` `Prisma` &nbsp;&nbsp; **DevOps** `Docker` `Git` `CI/CD` &nbsp;&nbsp; **Ferramentas** `Jest` `JUnit` `Mockito` `Postman` `Swagger` &nbsp;&nbsp; **SO** `Arch Linux` `Omarchy`
+**Frontend**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-FFFFFF?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
+</div>
+
+**Backend**
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/NestJS-FFFFFF?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-FFFFFF?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+</div>
+
+**Banco de Dados**
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=336791" />
+  <img src="https://img.shields.io/badge/Prisma-FFFFFF?style=for-the-badge&logo=prisma&logoColor=2D3748" />
+</div>
+
+**DevOps**
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/CI%2FCD-FFFFFF?style=for-the-badge&logo=github-actions&logoColor=2088FF" />
+</div>
+
+**Ferramentas**
+<div align="center">
+  <img src="https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=C21325" />
+  <img src="https://img.shields.io/badge/JUnit-FFFFFF?style=for-the-badge&logo=junit5&logoColor=25A162" />
+  <img src="https://img.shields.io/badge/Mockito-FFFFFF?style=for-the-badge&logo=mockito&logoColor=25A162" />
+  <img src="https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Swagger-FFFFFF?style=for-the-badge&logo=swagger&logoColor=85EA2D" />
+</div>
+
+**Sistema Operacional**
+<div align="center">
+  <img src="https://img.shields.io/badge/Arch%20Linux-FFFFFF?style=for-the-badge&logo=arch-linux&logoColor=1793D1" />
+  <img src="https://img.shields.io/badge/Omarchy-FFFFFF?style=for-the-badge&logo=linux&logoColor=00A86B" />
+</div>
 
 ---
 
