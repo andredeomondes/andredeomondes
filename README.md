@@ -122,6 +122,7 @@ const andre = {
 ## Formacao
 
 ```
+Engenharia da Computacao  •  SENAI CIMATEC  •  2024-2029
 Tecnico em Desenvolvimento de Sistemas  •  SENAI DENDEZEIROS  •  2025-2027
 ```
 
