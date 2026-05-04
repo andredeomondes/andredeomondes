@@ -1,17 +1,17 @@
 <h1 align="center">
-  <span style="color: #3178C6;">André</span> <span style="color: #61DAFB;">Deomondes</span>
+  <span style="color: #FFFFFF;">André</span> <span style="color: #00D4FF;">Deomondes</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack+com+%C3%AAnfase+em+Backend;TypeScript+%7C+NestJS+%7C+React+%7C+Next.js;Java+%7C+Spring+Boot+%7C+PostgreSQL;Stay+Hard.+Never+Quit." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+com+%C3%AAnfase+em+Backend;TypeScript+%7C+NestJS+%7C+React+%7C+Next.js;Java+%7C+Spring+Boot+%7C+PostgreSQL;Stay+Hard.+Never+Quit." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/NestJS-FFFFFF?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=336791" />
 </p>
 
 ---
@@ -29,12 +29,12 @@
 ## Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andredeomondes&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=3178C6&text_color=C9D1D9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredeomondes&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=3178C6&text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andredeomondes&show_icons=true&theme=transparent&hide_border=true&bg_color=000000&title_color=00D4FF&icon_color=FFFFFF&text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredeomondes&layout=compact&theme=transparent&hide_border=true&bg_color=000000&title_color=00D4FF&icon_color=FFFFFF&text_color=C9D1D9" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=andredeomondes&theme=dark&hide_border=true&background=0D1117&stroke=61DAFB&ring=3178C6&fire=61DAFB&currStreakLabel=C9D1D9" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=andredeomondes&theme=transparent&hide_border=true&background=000000&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=FFFFFF" height="165" />
 </p>
 
 ---
@@ -74,12 +74,12 @@ Técnico em Desenvolvimento de Sistemas  •  SENAI DENDEZEIROS  •  2025-2027
 ## Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/andredeomondes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/andredeomondes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/andredeomondes"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
+  <a href="https://github.com/andredeomondes"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andredeomondes&label=Visualizações&color=3178C6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=andredeomondes&label=Visualizações&color=00D4FF&style=flat" />
 </p>
 
-<h3 align="center">STAY HARD. NEVER QUIT. KEEP BUILDING.</h3>
+<h3 align="center" style="color: #FFFFFF;">STAY HARD. NEVER QUIT. KEEP BUILDING.</h3>
