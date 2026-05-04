@@ -134,6 +134,8 @@ Tecnico em Desenvolvimento de Sistemas  •  SENAI DENDEZEIROS  •  2025-2027
 **Outros**
 - Full Stack Club  •  Em andamento
 - Java Spring Professional  •  DevSuperior
+- Logica de Programacao em Java  •  Nelio Alves - Udemy
+- Java Completo + Projetos  •  Nelio Alves - Udemy
 
 ---
 
