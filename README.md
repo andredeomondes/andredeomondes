@@ -60,15 +60,15 @@ const andre = {
 
 ## 🚀 Projetos em Destaque
 
-| 💰 Finance App API | 🏢 Rexis Autoleads | 🌐 Portfolio |
+| 💰 Finance App API | 🎮 Stay Hard CLI | 🥷 Cadastro de Ninjas |
 |---|---|---|
-| API com foco em **testes Jest** e boas práticas TypeScript | Sistema de leads com **TypeScript + React** | Portfolio pessoal **Full Stack** |
-| [🔗 Repositório](https://github.com/andredeomondes/finance-app-api) | [🔗 Repositório](https://github.com/andredeomondes/rexis-autoleads) | [🔗 Repositório](https://github.com/andredeomondes/andredeomondes-portfolio) |
+| API com foco em **testes Jest** e boas práticas TypeScript | CLI Java com POO e persistência CSV | API Spring Boot para cadastro de ninjas |
+| [🔗 Repositório](https://github.com/andredeomondes/finance-app-api) | [🔗 Repositório](https://github.com/andredeomondes/stay-hard-v1-cli) | [🔗 Repositório](https://github.com/andredeomondes/CadastroDeNinjas) |
 
-| 🎮 Stay Hard CLI | 📦 Horus Stock | 🏗️ Galluci |
+| 📚 Full Stack SENAI | 🎯 LeetCode C++ | ☕ Spring Professional |
 |---|---|---|
-| CLI Java com POO e persistência | Sistema de estoque | Projeto TypeScript |
-| [🔗 Repositório](https://github.com/andredeomondes/stay-hard-v1-cli) | [🔗 Repositório](https://github.com/andredeomondes/horus-stock) | [🔗 Repositório](https://github.com/andredeomondes/galluci) |
+| Projetos da disciplina Full Stack | 100 dias de C++ - 200 exercícios | Curso Java Spring DevSuperior |
+| [🔗 Repositório](https://github.com/andredeomondes/DesenvolvimentoFullStack-SENAI) | [🔗 Repositório](https://github.com/andredeomondes/leetcode-cpp) | [🔗 Repositório](https://github.com/andredeomondes/ds-java-spring-professional) |
 
 ---
 
