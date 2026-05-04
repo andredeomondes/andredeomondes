@@ -110,6 +110,7 @@ const andre = {
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Omarchy-00A86B?style=flat&logo=linux&logoColor=white">
@@ -120,7 +121,7 @@ const andre = {
 ## Formacao
 
 ```
-Engenharia da Computacao  •  SENAI CIMATEC  •  2024-2029
+Tecnico em Desenvolvimento de Sistemas  •  SENAI DENDEZEIROS  •  2025-2027
 ```
 
 ### Cursos e Materias
