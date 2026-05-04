@@ -52,6 +52,10 @@ const andre = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredeomondes&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=3178C6&text_color=C9D1D9&langs_count=8" height="180px" alt="Top Languages"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=andredeomondes&theme=dark&hide_border=true&background=0D1117&stroke=61DAFB&ring=3178C6&fire=61DAFB&currStreakLabel=C9D1D9" height="180px" alt="GitHub Streak"/>
+</div>
+
 ---
 
 ## Projetos
@@ -99,16 +103,24 @@ const andre = {
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
-**DevOps & Tools**
+**DevOps**
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white" alt="CI/CD">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" alt="Swagger">
+</div>
+
+**Tools**
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest">
   <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" alt="JUnit">
   <img src="https://img.shields.io/badge/Mockito-25A162?style=flat&logo=mockito&logoColor=white" alt="Mockito">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" alt="Swagger">
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white" alt="CI/CD">
+</div>
+
+**Sistema Operacional**
+<div align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux">
   <img src="https://img.shields.io/badge/Omarchy-00A86B?style=flat&logo=linux&logoColor=white" alt="Omarchy">
 </div>
