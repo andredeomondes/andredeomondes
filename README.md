@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 </div>
 
 ---
@@ -82,7 +83,7 @@ const andre = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
 </div>
 
 **Frontend**
@@ -98,6 +99,8 @@ const andre = {
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white">
+  <img src="https://img.shields.io/badge/Mockito-25A162?style=flat&logo=mockito&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 </div>
@@ -108,7 +111,8 @@ const andre = {
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Omarchy-00A86B?style=flat&logo=linux&logoColor=white">
 </div>
 
 ---
@@ -124,7 +128,7 @@ Engenharia da Computacao  •  SENAI CIMATEC  •  2024-2029
 **SENAI**
 - POO Java
 - Oracle SQL & PL/SQL
-- Algoritmos e Estrutura de Dados (C++)
+- Algoritmos e Estrutura de Dados (C)
 - Alta Qualidade de Software
 
 **Outros**
@@ -158,5 +162,4 @@ Engenharia da Computacao  •  SENAI CIMATEC  •  2024-2029
 </h3>
 
 <div align="center">
-  <i>Feito com muito cafe</i>
 </div>
