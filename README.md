@@ -113,9 +113,15 @@ const andre = {
 
 ```
 📚 Engenharia da Computação  •  SENAI CIMATEC  •  2024-2029
+
+📜 Cursos SENAI:
+   • POO Java
+   • Oracle SQL & PL/SQL
+   • Algoritmos e Estrutura de Dados (C++)
+   • Alta Qualidade de Software
+
 📜 Full Stack Club  •  Em andamento
 📜 Java Spring Professional  •  DevSuperior
-📜 Alta Qualidade de Software  •  SENAI
 ```
 
 ---
