@@ -127,10 +127,9 @@ Tecnico em Desenvolvimento de Sistemas  •  SENAI DENDEZEIROS  •  2025-2027
 ### Cursos e Materias
 
 **SENAI**
-- POO Java
-- Oracle SQL & PL/SQL
-- Algoritmos e Estrutura de Dados (C)
-- Alta Qualidade de Software
+- Programacao Orientada a Objetos (Java)
+- Banco de Dados e Modelagem (Oracle SQL e PLSQL)
+- Alta Qualidade Software (SOLID, Padroes de Projeto e Design Patterns em Python)
 
 **Outros**
 - Full Stack Club  •  Em andamento
