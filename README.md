@@ -34,11 +34,6 @@
 ## Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andredeomondes&show_icons=true&theme=transparent&hide_border=true&bg_color=000000&title_color=00D4FF&icon_color=FFFFFF&text_color=C9D1D9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredeomondes&layout=compact&theme=transparent&hide_border=true&bg_color=000000&title_color=00D4FF&icon_color=FFFFFF&text_color=C9D1D9" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=andredeomondes&theme=transparent&hide_border=true&background=000000&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=FFFFFF" height="165" />
 </p>
 
@@ -94,8 +89,8 @@ Projetos em produção com foco em TypeScript, feitos em colaboração com outro
 ### TypeScript (open source)
 
 <p align="center">
-  <a href="https://github.com/andredeomondes/finance-app-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andredeomondes&repo=finance-app-api&theme=transparent&hide_border=true&bg_color=000000&title_color=00D4FF&icon_color=FFFFFF&text_color=C9D1D9" /></a>
-  <a href="https://github.com/andredeomondes/comanda-digital"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andredeomondes&repo=comanda-digital&theme=transparent&hide_border=true&bg_color=000000&title_color=00D4FF&icon_color=FFFFFF&text_color=C9D1D9" /></a>
+  <a href="https://github.com/andredeomondes/finance-app-api"><img src="https://img.shields.io/badge/finance--app--api-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/andredeomondes/comanda-digital"><img src="https://img.shields.io/badge/comanda--digital-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
