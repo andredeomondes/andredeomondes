@@ -1,0 +1,50 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Andre Deomondes — Backend &amp; Applied AI Engineer</title>
+  <desc id="desc">Capa editorial preta com uma grade técnica discreta, tipografia branca e pequenos sinais em laranja.</desc>
+
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#F4F4F0" stroke-opacity="0.055"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="210" x2="1280" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050505" stop-opacity="0"/>
+      <stop offset="0.74" stop-color="#050505" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" fill="#050505"/>
+  <rect width="1280" height="420" fill="url(#grid)"/>
+  <rect width="1280" height="420" fill="url(#fade)"/>
+
+  <g opacity="0.95">
+    <rect x="56" y="48" width="12" height="12" fill="#D95824"/>
+    <circle cx="62" cy="54" r="19" fill="#D95824" fill-opacity="0.14" filter="url(#softGlow)"/>
+    <text x="84" y="59" fill="#B8B8B2" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2.4">ANDREDEOMONDES.DEV</text>
+  </g>
+
+  <text x="54" y="192" fill="#F4F4F0" font-family="Segoe UI, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">ANDRE</text>
+  <text x="54" y="270" fill="none" stroke="#F4F4F0" stroke-width="1.4" font-family="Segoe UI, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">DEOMONDES.</text>
+
+  <line x1="56" y1="314.5" x2="1224" y2="314.5" stroke="#F4F4F0" stroke-opacity="0.18"/>
+  <line x1="56" y1="314.5" x2="310" y2="314.5" stroke="#D95824"/>
+
+  <text x="56" y="352" fill="#F4F4F0" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="1.6">BACKEND &amp; APPLIED AI ENGINEER</text>
+  <text x="56" y="382" fill="#9A9A94" font-family="Consolas, monospace" font-size="12" letter-spacing="1.25">SALVADOR · BAHIA · BRASIL</text>
+
+  <g transform="translate(934 60)">
+    <rect width="290" height="214" stroke="#F4F4F0" stroke-opacity="0.16"/>
+    <line x1="0" y1="55.5" x2="290" y2="55.5" stroke="#F4F4F0" stroke-opacity="0.12"/>
+    <text x="20" y="34" fill="#9A9A94" font-family="Consolas, monospace" font-size="11" letter-spacing="1.5">SYSTEM / PRACTICE</text>
+    <rect x="20" y="79" width="6" height="6" fill="#D95824"/>
+    <text x="42" y="86" fill="#F4F4F0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">PRODUTOS EM PRODUÇÃO</text>
+    <rect x="20" y="119" width="6" height="6" fill="#6F6F6B"/>
+    <text x="42" y="126" fill="#F4F4F0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">ARQUITETURA &amp; DADOS</text>
+    <rect x="20" y="159" width="6" height="6" fill="#6F6F6B"/>
+    <text x="42" y="166" fill="#F4F4F0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">IA APLICADA</text>
+    <text x="20" y="197" fill="#9A9A94" font-family="Consolas, monospace" font-size="10" letter-spacing="1">BUILD · OBSERVE · EVOLVE</text>
+  </g>
+</svg>
