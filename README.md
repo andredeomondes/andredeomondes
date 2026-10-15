@@ -8,6 +8,7 @@
   <a href="https://andredeomondes.dev">portfólio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://andredeomondes.dev/projects">projetos</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://andredeomondes.dev/posts">publicações</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://andredeomondes.dev/resume">currículo</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://linkedin.com/in/andredeomondes">linkedin</a>
 </p>
 
@@ -61,6 +62,12 @@ Também escrevo sobre backend, arquitetura, qualidade, deploy e IA aplicada — 
 - Engenharia da Computação na **Universidade CIMATEC**.
 - Desenvolvimento e manutenção contínua de **Drop Aki TCG** e **AMR Mobile**.
 - Publicação da série **JavaScript Core**.
+
+## Currículo
+
+[Português - PDF](./resume/andre-deomondes-curriculo-pt-br.pdf) · [English - PDF](./resume/andre-deomondes-resume-en.pdf)
+
+Versões de uma página, com estrutura linear, texto selecionável e conteúdo atualizado para processos seletivos de Backend Software Engineering e Applied AI.
 
 ## Vamos conversar
 
