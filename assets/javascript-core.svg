@@ -1,0 +1,56 @@
+<svg width="1280" height="220" viewBox="0 0 1280 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">JavaScript Core — 27 de 27 unidades publicadas</title>
+  <desc id="desc">Grade com as 27 unidades da série JavaScript Core, todas publicadas, com uma onda de luz de sódio percorrendo as células.</desc>
+  <defs>
+    <style>
+      .mono { font-family: Consolas, 'JetBrains Mono', 'SF Mono', monospace; }
+      .sans { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .cell rect { fill: #FFD43B; fill-opacity: 0.07; stroke: #FFD43B; stroke-opacity: 0.25; animation: wave 5s ease-in-out infinite; }
+      .cell text { fill: #D6D6DA; font: 500 12px Consolas, 'JetBrains Mono', monospace; animation: waveText 5s ease-in-out infinite; }
+      @keyframes wave { 0%, 14%, 100% { fill-opacity: .07; } 7% { fill-opacity: 1; } }
+      @keyframes waveText { 0%, 14%, 100% { fill: #D6D6DA; } 7% { fill: #060708; } }
+      @media (prefers-reduced-motion: reduce) { .cell rect, .cell text { animation: none; } }
+    </style>
+  </defs>
+  <rect width="1280" height="220" rx="24" fill="#060708"/>
+  <rect x="0.5" y="0.5" width="1279" height="219" rx="23.5" stroke="#FFFFFF" stroke-opacity="0.08"/>
+
+  <text class="sans" x="56" y="78" fill="#F4F4F1" font-size="34" font-weight="700" letter-spacing="-1.2">JavaScript Core.</text>
+  <text class="sans" x="56" y="112" fill="#9C9CA3" font-size="17">Do fundamento ao backend, uma unidade por vez.</text>
+  <text class="mono" x="56" y="150" fill="#F4F4F1" font-size="14" font-weight="700">27<tspan fill="#9C9CA3" font-weight="400"> de 27 unidades publicadas</tspan></text>
+  <rect x="56" y="164" width="300" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.06"/>
+  <rect x="56" y="164" width="300" height="6" rx="3" fill="#FFD43B"/>
+
+  <g transform="translate(676 34)">
+    <!-- 9 x 3 grid, cell 52, gap 10 -->
+    <g class="cell"><rect x="0" y="0" width="52" height="44" rx="10" style="animation-delay:0s"/><text x="18" y="27" style="animation-delay:0s">01</text></g>
+    <g class="cell"><rect x="62" y="0" width="52" height="44" rx="10" style="animation-delay:.09s"/><text x="80" y="27" style="animation-delay:.09s">02</text></g>
+    <g class="cell"><rect x="124" y="0" width="52" height="44" rx="10" style="animation-delay:.18s"/><text x="142" y="27" style="animation-delay:.18s">03</text></g>
+    <g class="cell"><rect x="186" y="0" width="52" height="44" rx="10" style="animation-delay:.27s"/><text x="204" y="27" style="animation-delay:.27s">04</text></g>
+    <g class="cell"><rect x="248" y="0" width="52" height="44" rx="10" style="animation-delay:.36s"/><text x="266" y="27" style="animation-delay:.36s">05</text></g>
+    <g class="cell"><rect x="310" y="0" width="52" height="44" rx="10" style="animation-delay:.45s"/><text x="328" y="27" style="animation-delay:.45s">06</text></g>
+    <g class="cell"><rect x="372" y="0" width="52" height="44" rx="10" style="animation-delay:.54s"/><text x="390" y="27" style="animation-delay:.54s">07</text></g>
+    <g class="cell"><rect x="434" y="0" width="52" height="44" rx="10" style="animation-delay:.63s"/><text x="452" y="27" style="animation-delay:.63s">08</text></g>
+    <g class="cell"><rect x="496" y="0" width="52" height="44" rx="10" style="animation-delay:.72s"/><text x="514" y="27" style="animation-delay:.72s">09</text></g>
+    <g class="cell"><rect x="0" y="54" width="52" height="44" rx="10" style="animation-delay:.81s"/><text x="18" y="81" style="animation-delay:.81s">10</text></g>
+    <g class="cell"><rect x="62" y="54" width="52" height="44" rx="10" style="animation-delay:.9s"/><text x="80" y="81" style="animation-delay:.9s">11</text></g>
+    <g class="cell"><rect x="124" y="54" width="52" height="44" rx="10" style="animation-delay:.99s"/><text x="142" y="81" style="animation-delay:.99s">12</text></g>
+    <g class="cell"><rect x="186" y="54" width="52" height="44" rx="10" style="animation-delay:1.08s"/><text x="204" y="81" style="animation-delay:1.08s">13</text></g>
+    <g class="cell"><rect x="248" y="54" width="52" height="44" rx="10" style="animation-delay:1.17s"/><text x="266" y="81" style="animation-delay:1.17s">14</text></g>
+    <g class="cell"><rect x="310" y="54" width="52" height="44" rx="10" style="animation-delay:1.26s"/><text x="328" y="81" style="animation-delay:1.26s">15</text></g>
+    <g class="cell"><rect x="372" y="54" width="52" height="44" rx="10" style="animation-delay:1.35s"/><text x="390" y="81" style="animation-delay:1.35s">16</text></g>
+    <g class="cell"><rect x="434" y="54" width="52" height="44" rx="10" style="animation-delay:1.44s"/><text x="452" y="81" style="animation-delay:1.44s">17</text></g>
+    <g class="cell"><rect x="496" y="54" width="52" height="44" rx="10" style="animation-delay:1.53s"/><text x="514" y="81" style="animation-delay:1.53s">18</text></g>
+    <g class="cell"><rect x="0" y="108" width="52" height="44" rx="10" style="animation-delay:1.62s"/><text x="18" y="135" style="animation-delay:1.62s">19</text></g>
+    <g class="cell"><rect x="62" y="108" width="52" height="44" rx="10" style="animation-delay:1.71s"/><text x="80" y="135" style="animation-delay:1.71s">20</text></g>
+    <g class="cell"><rect x="124" y="108" width="52" height="44" rx="10" style="animation-delay:1.8s"/><text x="142" y="135" style="animation-delay:1.8s">21</text></g>
+    <g class="cell"><rect x="186" y="108" width="52" height="44" rx="10" style="animation-delay:1.89s"/><text x="204" y="135" style="animation-delay:1.89s">22</text></g>
+    <g class="cell"><rect x="248" y="108" width="52" height="44" rx="10" style="animation-delay:1.98s"/><text x="266" y="135" style="animation-delay:1.98s">23</text></g>
+    <g class="cell"><rect x="310" y="108" width="52" height="44" rx="10" style="animation-delay:2.07s"/><text x="328" y="135" style="animation-delay:2.07s">24</text></g>
+    <g class="cell"><rect x="372" y="108" width="52" height="44" rx="10" style="animation-delay:2.16s"/><text x="390" y="135" style="animation-delay:2.16s">25</text></g>
+    <g class="cell"><rect x="434" y="108" width="52" height="44" rx="10" style="animation-delay:2.25s"/><text x="452" y="135" style="animation-delay:2.25s">26</text></g>
+    <g class="cell"><rect x="496" y="108" width="52" height="44" rx="10" style="animation-delay:2.34s"/><text x="514" y="135" style="animation-delay:2.34s">27</text></g>
+  </g>
+
+  <text class="mono" x="56" y="202" fill="#6B6B72" font-size="12">exercícios com testes · dicas graduais · resoluções</text>
+</svg>
