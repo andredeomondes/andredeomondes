@@ -8,23 +8,44 @@ Desenvolvo produtos full stack e sistemas de IA, da interface e APIs ao deploy.
 
 ## Projetos selecionados
 
-### [OPTIC](https://github.com/andredeomondes/optic)
-
-Controle remoto desktop de código aberto para TVs inteligentes pela rede local, feito com Go, Wails e React. Selecionado para o [XERJ Corpus Hub](https://hub.xerj.org/corpus/andredeomondes--optic).
-
-[![Janela do OPTIC com o controle da TV](./assets/optic.webp)](https://andredeomondes.dev/projects/optic)
-
-### [AMR Mobile](https://andredeomondes.dev/projects/amr-mobile)
-
-Plataforma B2B freelance para consulta de estoque e venda de iPhones no atacado. Desenvolvi a interface em Angular, a API em NestJS e as automações em Python.
-
-[![Página inicial da AMR Mobile para revendedores](./assets/amr-mobile.webp)](https://andredeomondes.dev/projects/amr-mobile)
-
-[Drop Aki TCG](https://andredeomondes.dev/projects/drop-aki-tcg) · [CajiAgent](https://andredeomondes.dev/projects/caji-agent) · [Série JavaScript Core](https://andredeomondes.dev/series/javascript-core)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://andredeomondes.dev/projects/optic"><img src="./assets/optic-card.webp" width="100%" alt="Janela do OPTIC com o controle remoto da TV"></a>
+      <h3><a href="https://andredeomondes.dev/projects/optic">OPTIC</a></h3>
+      <p>Controle remoto desktop de código aberto para TVs inteligentes pela rede local.</p>
+      <p><code>Go</code> <code>Wails</code> <code>React</code></p>
+      <p><a href="https://github.com/andredeomondes/optic">Código</a> · Selecionado para o <a href="https://hub.xerj.org/corpus/andredeomondes--optic">XERJ Corpus Hub</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://andredeomondes.dev/projects/amr-mobile"><img src="./assets/amr-mobile-card.webp" width="100%" alt="Nova vitrine da AMR Mobile para revendedores"></a>
+      <h3><a href="https://andredeomondes.dev/projects/amr-mobile">AMR Mobile</a></h3>
+      <p>Plataforma B2B freelance para consultar estoque e montar pedidos de iPhones no atacado.</p>
+      <p><code>Angular</code> <code>NestJS</code> <code>Python</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://andredeomondes.dev/projects/drop-aki-tcg"><img src="./assets/drop-aki-tcg-card.webp" width="100%" alt="Loja online Drop Aki TCG"></a>
+      <h3><a href="https://andredeomondes.dev/projects/drop-aki-tcg">Drop Aki TCG</a></h3>
+      <p>E-commerce de cards colecionáveis, do catálogo ao checkout e à operação da loja.</p>
+      <p><code>Astro</code> <code>React</code> <code>TypeScript</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://andredeomondes.dev/projects/caji-agent"><img src="./assets/caji-agent-card.webp" width="100%" alt="Página inicial do CajiAgent"></a>
+      <h3><a href="https://andredeomondes.dev/projects/caji-agent">CajiAgent</a></h3>
+      <p>SaaS de atendimento com IA. Integrei WhatsApp, Instagram e a consulta de estoque pelo agente.</p>
+      <p><code>React</code> <code>Fastify</code> <code>FastAPI</code></p>
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
 - **Linguagens** · TypeScript, Java, Python
-- **Frontend e backend** · React, Angular, NestJS, Spring Boot, FastAPI
+- **Frontend** · React, Angular, Astro
+- **Backend** · NestJS, Spring Boot, FastAPI
 - **Engenharia de IA** · Classificação de texto, avaliação de modelos e integração de agentes
-**Dados e infraestrutura** · PostgreSQL, Redis, AWS, Docker, CI/CD
+- **Dados e infraestrutura** · PostgreSQL, Redis, AWS, Docker, CI/CD
+
+[Série JavaScript Core](https://andredeomondes.dev/series/javascript-core) · [Publicações](https://andredeomondes.dev/posts)
