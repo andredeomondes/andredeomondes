@@ -1,8 +1,6 @@
-# André Deomondes
-
-**Fullstack & IA Engineer** · Salvador, Bahia
-
-Desenvolvo produtos full stack e sistemas de IA, da interface e APIs ao deploy.
+<a href="https://andredeomondes.dev">
+  <img src="./assets/profile-hero.svg" width="100%" alt="André Deomondes — Fullstack &amp; IA Engineer. Abrir portfólio.">
+</a>
 
 [Portfólio](https://andredeomondes.dev) · [Currículo PT-BR](https://andredeomondes.dev/resume/andre-deomondes-curriculo-pt-br.pdf) · [Resume EN](https://andredeomondes.dev/resume/andre-deomondes-resume-en.pdf) · [LinkedIn](https://linkedin.com/in/andredeomondes)
 
@@ -42,10 +40,10 @@ Desenvolvo produtos full stack e sistemas de IA, da interface e APIs ao deploy.
 
 ## Stack
 
-- **Linguagens** · TypeScript, Java, Python
-- **Frontend** · React, Angular, Astro
-- **Backend** · NestJS, Spring Boot, FastAPI
+- **Linguagens** · <img src="./assets/stack/typescript.png" width="14" height="14" alt=""> TypeScript · <img src="./assets/stack/java.png" width="14" height="14" alt=""> Java · <img src="./assets/stack/python.png" width="14" height="14" alt=""> Python
+- **Frontend** · <img src="./assets/stack/react.png" width="14" height="14" alt=""> React · <img src="./assets/stack/angular.png" width="14" height="14" alt=""> Angular · <img src="./assets/stack/astro.png" width="14" height="14" alt=""> Astro
+- **Backend** · <img src="./assets/stack/nestjs.png" width="14" height="14" alt=""> NestJS · <img src="./assets/stack/spring-boot.png" width="14" height="14" alt=""> Spring Boot · <img src="./assets/stack/fastapi.png" width="14" height="14" alt=""> FastAPI
+- **Dados e infraestrutura** · <img src="./assets/stack/postgresql.png" width="14" height="14" alt=""> PostgreSQL · <img src="./assets/stack/redis.png" width="14" height="14" alt=""> Redis · <img src="./assets/stack/docker.png" width="14" height="14" alt=""> Docker
 - **Engenharia de IA** · Classificação de texto, avaliação de modelos e integração de agentes
-- **Dados e infraestrutura** · PostgreSQL, Redis, AWS, Docker, CI/CD
 
 [Série JavaScript Core](https://andredeomondes.dev/series/javascript-core) · [Publicações](https://andredeomondes.dev/posts)
