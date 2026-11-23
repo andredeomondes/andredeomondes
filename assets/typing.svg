@@ -1,0 +1,31 @@
+<svg width="1280" height="72" viewBox="0 0 1280 72" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">O que eu faço</title>
+  <desc id="desc">Linha de terminal que digita em sequência: engenheiro de software full stack; engenharia de IA com RAG, agentes e MCP; guardrails, evals e observabilidade de LLMs; testes unitários, de integração e E2E; TypeScript, NestJS, Java, Spring e Python.</desc>
+  <defs>
+    <style>
+      .mono { font-family: Consolas, 'JetBrains Mono', 'SF Mono', monospace; font-weight: 500; }
+      .prompt { fill: #FFD43B; }
+      .line { fill: #F2F2F2; }
+      .cursor { fill: #FFD43B; animation: cursor 1s steps(1) infinite; }
+      @keyframes cursor { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+    </style>
+    <clipPath id="c0"><rect x="300" y="14" height="44" width="0"><animate attributeName="width" dur="17.5s" repeatCount="indefinite" keyTimes="0;0.06;0.17;0.2;1" values="0;520;520;0;0"/></rect></clipPath>
+    <clipPath id="c1"><rect x="300" y="14" height="44" width="0"><animate attributeName="width" dur="17.5s" repeatCount="indefinite" keyTimes="0;0.2;0.26;0.37;0.4;1" values="0;0;640;640;0;0"/></rect></clipPath>
+    <clipPath id="c2"><rect x="300" y="14" height="44" width="0"><animate attributeName="width" dur="17.5s" repeatCount="indefinite" keyTimes="0;0.4;0.46;0.57;0.6;1" values="0;0;720;720;0;0"/></rect></clipPath>
+    <clipPath id="c3"><rect x="300" y="14" height="44" width="0"><animate attributeName="width" dur="17.5s" repeatCount="indefinite" keyTimes="0;0.6;0.66;0.77;0.8;1" values="0;0;720;720;0;0"/></rect></clipPath>
+    <clipPath id="c4"><rect x="300" y="14" height="44" width="0"><animate attributeName="width" dur="17.5s" repeatCount="indefinite" keyTimes="0;0.8;0.86;0.97;1" values="0;0;700;700;0"/></rect></clipPath>
+  </defs>
+
+  <rect width="1280" height="72" rx="16" fill="#060708"/>
+  <rect x="0.5" y="0.5" width="1279" height="71" rx="15.5" stroke="#FFFFFF" stroke-opacity="0.1"/>
+
+  <text class="mono prompt" x="250" y="44" font-size="22">&gt;<tspan class="cursor">_</tspan></text>
+  <g class="mono line" font-size="22">
+    <text x="300" y="44" clip-path="url(#c0)">engenheiro de software full stack</text>
+    <text x="300" y="44" clip-path="url(#c1)">engenharia de IA: RAG, agentes e MCP</text>
+    <text x="300" y="44" clip-path="url(#c2)">guardrails, evals e observabilidade de LLMs</text>
+    <text x="300" y="44" clip-path="url(#c3)">teste em tudo: unitário, integração e E2E</text>
+    <text x="300" y="44" clip-path="url(#c4)">TypeScript · NestJS · Java · Spring · Python</text>
+  </g>
+</svg>

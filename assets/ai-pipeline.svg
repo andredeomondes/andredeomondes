@@ -1,0 +1,107 @@
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Como eu coloco LLMs em produção</title>
+  <desc id="desc">Pipeline animado: a requisição passa por guardrails de entrada, recuperação com RAG e pgvector, chamada ao LLM com ferramentas via MCP e validação da saída por schema antes da resposta. Abaixo, evals no CI e observabilidade de tokens, custo e latência acompanham cada etapa.</desc>
+  <defs>
+    <radialGradient id="sodium" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(640 130) rotate(90) scale(220 640)">
+      <stop stop-color="#FFD43B" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#FFD43B" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: Consolas, 'JetBrains Mono', 'SF Mono', monospace; font-weight: 500; }
+      .sans { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-weight: 600; }
+      .box { fill: #121316; stroke: #FFFFFF; stroke-opacity: 0.14; }
+      .hot { stroke: #FFD43B; stroke-opacity: 0.9; animation: hot 6s ease-in-out infinite; }
+      .wire { stroke: #FFFFFF; stroke-opacity: 0.16; stroke-dasharray: 3 5; }
+      .title { fill: #F2F2F2; }
+      .sub { fill: #9A9CA3; }
+      .tag { fill: #FFD43B; }
+      .dot { fill: #FFD43B; filter: url(#glow); }
+      .bar { fill: #FFD43B; fill-opacity: 0.85; transform-box: fill-box; transform-origin: bottom; animation: bar 2.4s ease-in-out infinite; }
+      .b2 { animation-delay: .3s; } .b3 { animation-delay: .6s; } .b4 { animation-delay: .9s; } .b5 { animation-delay: 1.2s; } .b6 { animation-delay: 1.5s; } .b7 { animation-delay: 1.8s; }
+      .h1 { animation-delay: 0s; } .h2 { animation-delay: 1.2s; } .h3 { animation-delay: 2.4s; } .h4 { animation-delay: 3.6s; } .h5 { animation-delay: 4.8s; }
+      .check { fill: #FFD43B; animation: blink 2s ease-in-out infinite; }
+      @keyframes hot { 0%, 22%, 100% { stroke-opacity: 0; } 8% { stroke-opacity: .95; } }
+      @keyframes bar { 0%, 100% { transform: scaleY(.35); } 50% { transform: scaleY(1); } }
+      @keyframes blink { 0%, 100% { opacity: .4; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) { .hot, .bar, .check { animation: none; } .dot { display: none; } }
+    </style>
+  </defs>
+
+  <rect width="1280" height="340" rx="24" fill="#060708"/>
+  <rect width="1280" height="340" rx="24" fill="url(#sodium)"/>
+  <text class="mono sub" x="56" y="44" font-size="14">// como eu coloco LLMs em produção</text>
+
+  <path id="track" class="wire" d="M150 130H1130"/>
+
+  <g>
+    <rect class="box" x="56" y="90" width="188" height="80" rx="12"/>
+    <rect class="box hot h1" x="56" y="90" width="188" height="80" rx="12" fill="none"/>
+    <text class="sans title" x="76" y="124" font-size="17">guardrails</text>
+    <text class="mono sub" x="76" y="148" font-size="12.5">injection · PII · cotas</text>
+  </g>
+  <g>
+    <rect class="box" x="302" y="90" width="188" height="80" rx="12"/>
+    <rect class="box hot h2" x="302" y="90" width="188" height="80" rx="12" fill="none"/>
+    <text class="sans title" x="322" y="124" font-size="17">RAG</text>
+    <text class="mono sub" x="322" y="148" font-size="12.5">pgvector · híbrida</text>
+  </g>
+  <g>
+    <rect class="box" x="548" y="90" width="188" height="80" rx="12"/>
+    <rect class="box hot h3" x="548" y="90" width="188" height="80" rx="12" fill="none"/>
+    <text class="sans title" x="568" y="124" font-size="17">LLM + agente</text>
+    <text class="mono sub" x="568" y="148" font-size="12.5">tools · MCP · fallback</text>
+  </g>
+  <g>
+    <rect class="box" x="794" y="90" width="188" height="80" rx="12"/>
+    <rect class="box hot h4" x="794" y="90" width="188" height="80" rx="12" fill="none"/>
+    <text class="sans title" x="814" y="124" font-size="17">validação</text>
+    <text class="mono sub" x="814" y="148" font-size="12.5">schema · citações</text>
+  </g>
+  <g>
+    <rect class="box" x="1040" y="90" width="184" height="80" rx="12"/>
+    <rect class="box hot h5" x="1040" y="90" width="184" height="80" rx="12" fill="none"/>
+    <text class="sans title" x="1060" y="124" font-size="17">resposta</text>
+    <text class="mono sub" x="1060" y="148" font-size="12.5">ou recusa correta</text>
+  </g>
+
+  <circle class="dot" r="5">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M150 130H1130" keyPoints="0;1;1" keyTimes="0;0.85;1" calcMode="linear"/>
+  </circle>
+  <circle class="dot" r="3.5" opacity="0.6">
+    <animateMotion dur="6s" begin="3s" repeatCount="indefinite" path="M150 130H1130" keyPoints="0;1;1" keyTimes="0;0.85;1" calcMode="linear"/>
+  </circle>
+
+  <path class="wire" d="M56 206H1224"/>
+
+  <g transform="translate(56 228)">
+    <rect class="box" width="560" height="84" rx="12"/>
+    <text class="sans title" x="20" y="34" font-size="16">evals no CI</text>
+    <text class="mono sub" x="20" y="60" font-size="12.5">dataset próprio · fidelidade · regressão de prompt</text>
+    <g transform="translate(440 22)">
+      <rect x="0" y="0" width="18" height="18" rx="4" class="check"/>
+      <rect x="28" y="0" width="18" height="18" rx="4" class="check" style="animation-delay:.4s"/>
+      <rect x="56" y="0" width="18" height="18" rx="4" class="check" style="animation-delay:.8s"/>
+      <rect x="84" y="0" width="18" height="18" rx="4" class="check" style="animation-delay:1.2s"/>
+      <text class="mono tag" x="0" y="44" font-size="12.5">pass ✓</text>
+    </g>
+  </g>
+
+  <g transform="translate(664 228)">
+    <rect class="box" width="560" height="84" rx="12"/>
+    <text class="sans title" x="20" y="34" font-size="16">observabilidade</text>
+    <text class="mono sub" x="20" y="60" font-size="12.5">tokens · custo · latência p95 · qualidade</text>
+    <g transform="translate(400 14)">
+      <rect class="bar" x="0" y="8" width="12" height="48" rx="2"/>
+      <rect class="bar b2" x="20" y="8" width="12" height="48" rx="2"/>
+      <rect class="bar b3" x="40" y="8" width="12" height="48" rx="2"/>
+      <rect class="bar b4" x="60" y="8" width="12" height="48" rx="2"/>
+      <rect class="bar b5" x="80" y="8" width="12" height="48" rx="2"/>
+      <rect class="bar b6" x="100" y="8" width="12" height="48" rx="2"/>
+      <rect class="bar b7" x="120" y="8" width="12" height="48" rx="2"/>
+    </g>
+  </g>
+</svg>
